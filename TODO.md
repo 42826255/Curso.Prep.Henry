@@ -2,8 +2,8 @@
 
 - [x] Create a new to-do
 
-- [ ] Open the menu
-- [ ] Log in to GitHub
+- [x] Open the menu
+- [x] Log in to GitHub
 - [ ] Choose a branch
 - [ ] Select a repository
 - [ ] Enter a filename
