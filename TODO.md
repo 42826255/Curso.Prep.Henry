@@ -9,3 +9,5 @@
 - [ ] Enter a filename
 - [ ] _Optional:_ Prefix the filename with a path if it is not located in the repository root
 - [ ] The to-do list is created if necessary during the first sync
+
+ git --version
